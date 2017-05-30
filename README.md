@@ -1,1 +1,1 @@
-# proyecto_investigacion_postes
+# repositorio_proyecto_investigacion
